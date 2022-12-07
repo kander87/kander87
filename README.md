@@ -31,3 +31,5 @@ Anything! Since I am a newbie!
 </ul>
  
 <a href="https://drive.google.com/uc?export=view&id=137MGfEcZQNriKaCqc-G5RHhsEu48DoC6"><img src="https://drive.google.com/uc?export=view&id=137MGfEcZQNriKaCqc-G5RHhsEu48DoC6" style="width: 400px; max-width: 25%; height: 25%" title="Click to enlarge picture" />
+
+  <h1 align="center"> :wave:	 Thank you for stopping by!!! :wave:	 </h1>
