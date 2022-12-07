@@ -31,5 +31,6 @@ Anything! Since I am a newbie!
 </ul>
 
  <a href="https://drive.google.com/uc?export=view&id=130ORD2qwbKyyBJjL-RaqtDq-2mfVDn-i"><img src="https://drive.google.com/uc?export=view&id=130ORD2qwbKyyBJjL-RaqtDq-2mfVDn-i" style="width: 200px; max-width: 25%; height: 25%" title="Click to enlarge picture" />
+ 
 <a href="https://drive.google.com/uc?export=view&id=12u5HeYgCKlmI9JuS1Yq0BDNAPohgcuVk"><img src="https://drive.google.com/uc?export=view&id=12u5HeYgCKlmI9JuS1Yq0BDNAPohgcuVk" style="width: 200px; max-width: 25%; height: 25%" title="Click to enlarge picture" />
 
