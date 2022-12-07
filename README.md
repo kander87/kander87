@@ -29,8 +29,5 @@ Anything! Since I am a newbie!
   <li> Data analysis (Excel, Sheets, SQL, RStudio, Google Data Studio, Tableau) </li>
   <li> My cats. Well, you don't have to ask, I will just tell you anyways... </li>
 </ul>
-
- <a href="https://drive.google.com/uc?export=view&id=130ORD2qwbKyyBJjL-RaqtDq-2mfVDn-i"><img src="https://drive.google.com/uc?export=view&id=130ORD2qwbKyyBJjL-RaqtDq-2mfVDn-i" style="width: 200px; max-width: 25%; height: 25%" title="Click to enlarge picture" />
  
-<a href="https://drive.google.com/uc?export=view&id=12u5HeYgCKlmI9JuS1Yq0BDNAPohgcuVk"><img src="https://drive.google.com/uc?export=view&id=12u5HeYgCKlmI9JuS1Yq0BDNAPohgcuVk" style="width: 200px; max-width: 25%; height: 25%" title="Click to enlarge picture" />
-
+<a href="https://drive.google.com/uc?export=view&id=137MGfEcZQNriKaCqc-G5RHhsEu48DoC6"><img src="https://drive.google.com/uc?export=view&id=137MGfEcZQNriKaCqc-G5RHhsEu48DoC6" style="width: 400px; max-width: 25%; height: 25%" title="Click to enlarge picture" />
