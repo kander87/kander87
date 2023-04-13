@@ -42,6 +42,19 @@
 - Version Control Systems: Git, Github
 
 
+ <div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kander87&theme=monokai-metallian)](https://git.io/streak-stats)
+  
+ </div>
+ 
+ 
+ <div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kander87&theme=monokai-metallian)](https://git.io/streak-stats)
+  
+ </div>
+ 
 
 <h2 align="center" > :hearts:	 Hobbies :hearts:	 </h2>
 <ul>
@@ -54,9 +67,7 @@
    <li>  The outdoors </li>
   </ul>
  
- <h2 align="center" > :handshake:		 Collaboration :handshake:		 </h2>
-I'm down!
-
+ 
 <h2 align="center" > :question:		Ask Me About... :question:			 </h2>
 <ul>
   <li> Education best practices </li>
@@ -64,6 +75,11 @@ I'm down!
   <li> My cats. Well, you don't have to ask, I will just tell you anyways... </li>
 </ul>
  
-<a href="https://drive.google.com/uc?export=view&id=137MGfEcZQNriKaCqc-G5RHhsEu48DoC6"><img src="https://drive.google.com/uc?export=view&id=137MGfEcZQNriKaCqc-G5RHhsEu48DoC6" style="width: 400px; max-width: 25%; height: 25%" title="Click to enlarge picture" />
+ <div align="center">
+ 
+<a href="https://drive.google.com/uc?export=view&id=137MGfEcZQNriKaCqc-G5RHhsEu48DoC6"><img src="https://drive.google.com/uc?export=view&id=137MGfEcZQNriKaCqc-G5RHhsEu48DoC6" style="width: 200px; max-width: 15%; height: 15%" title="Click to enlarge picture" />
 
+ </div>
+ 
+ 
   <h1 align="center"> :wave:	 Thank you for stopping by!!! :wave:	 </h1>
