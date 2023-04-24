@@ -8,8 +8,7 @@
 <p align="center"> 
   <img max width= 20% src="https://media.giphy.com/media/l0FF56cexcW2JAXCJj/giphy.gif" />
 
-  👋 Hi, I’m @kander87 but my real name is Kate Anderson. I am making the career change into software development after being in education for 12 years. Funny enough, after teaching an intro CS course for the past 5-6 years to high school students and having many go on to college to study CS degrees, I have now completed a Software Devleopment Bootcamp with Coding Dojo! I am excited to continue expanding my knowlege in the field!
-</p>
+  👋 Hi, I’m @kander87 but my real name is Kate Anderson. I am making the career change into software development after being in education for 12 years. After teaching an intro CS course to high school students for 7 years and having many go on to college to study CS degrees, I have now completed a Software Development Bootcamp with Coding Dojo! I am excited to continue expanding my knowledge in the field.
 
 <h2 align ="center" > :brain:	 Technologies/Toolls Learned  :brain:	</h2>
 <div align="center">
