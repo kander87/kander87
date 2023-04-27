@@ -48,11 +48,11 @@
  </div>
  
  
- <div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=kander87&theme=monokai-metallian)](https://git.io/streak-stats)
-  
- </div>
+  <div align="center">
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kander87&hide_progress=true)](https://github.com/kander87/github-readme-stats)
+ 
+  </div>
  
 
 <h2 align="center" > :hearts:	 Hobbies :hearts:	 </h2>
