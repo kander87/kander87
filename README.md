@@ -8,7 +8,12 @@
 <p align="center"> 
   <img max width= 20% src="https://media.giphy.com/media/l0FF56cexcW2JAXCJj/giphy.gif" />
 
-  👋 Hi, I’m @kander87 but my real name is Kate Anderson. I am making the career change into software development after being in education for 12 years.  I am excited to continue expanding my knowledge in the field. In my time as a Software Developer I have created multiple full stack web applications using Python, JavaScript, C#, HTML, and CSS. Additionally, I have experience in data analytics with Sheets, R, and SQL.  
+Software developer with a transferrable skillset in teaching for 12+ years. I am excited to continue expanding my knowledge in the technical field through my work-ethic, communication skills, and abilities to quickly learn new tasks and react to changes in the moment. 
+
+As a Software Developer, I have find joy in:
+- Consulting for several small businesses in a freelance capacity to created multiple full stack web applications using Python, JavaScript, C#, HTML, and CSS. Additionally, I have experience in data analytics with Sheets, R, and SQL.
+- Building projects of my own (peek at my repositories!)
+- Analyzing data for small and large businesses
 
 <h2 align ="center" > :brain:	 Technologies/Tools Learned  :brain:	</h2>
 <div align="center">
