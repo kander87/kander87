@@ -15,6 +15,8 @@ As a Software Developer, I have find joy in:
 - Building projects of my own (peek at my repositories!)
 - Analyzing data for small and large businesses
 
+Contact me if you are looking to work with someone who is versatile with experience in multiple feilds and a quick learner!!!
+
 <h2 align ="center" > :brain:	 Technologies/Tools Learned  :brain:	</h2>
 <div align="center">
  
