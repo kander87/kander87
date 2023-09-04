@@ -10,8 +10,8 @@
 
 Software developer with a transferrable skillset in teaching for 12+ years. I am excited to continue expanding my knowledge in the technical field through my work-ethic, communication skills, and abilities to quickly learn new tasks and react to changes in the moment. 
 
-As a Software Developer, I have find joy in:
-- Consulting for several small businesses in a freelance capacity to created multiple full stack web applications using Python, JavaScript, C#, HTML, and CSS. Additionally, I have experience in data analytics with Sheets, R, and SQL.
+As a Software Developer, I find joy in:
+- Consulting for several small businesses in a freelance capacity, making multiple full stack web applications using Python, JavaScript, C#, WordPress, PHP, HTML, and CSS. Additionally, I have experience in data analytics with Sheets, Tableau, BigQuery, R, RStudio, and SQL.
 - Building projects of my own (peek at my repositories!)
 - Analyzing data for small and large businesses
 
